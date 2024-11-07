@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Field Printer is a command-line utility written in C that reads a delimited text file (such as CSV or TSV) and prints specified fields to the console. It allows users to specify both the delimiter and the fields they want to extract.
+This is a command-line utility written in C that reads a delimited text file (such as CSV or TSV) and prints specified fields to the console. It allows users to specify both the delimiter and the fields they want to extract.
 
 ## Features
 
